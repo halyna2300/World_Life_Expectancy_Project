@@ -1,7 +1,7 @@
+# World Life Expectancy Data Cleaning & Exploratory Data Analysis Project
 <p align="center">
   <img src="https://github.com/halyna2300/World_Life_Expectancy_Project/blob/main/life%20exp.jpg" width="500">
 </p>
-# World Life Expectancy Data Cleaning & Exploratory Data Analysis Project
 
 ## Project Overview
 This project focuses on cleaning and analyzing a dataset related to global life expectancy using SQL. The goal was to gain insights into health indicators, socioeconomic factors, and country-level differences that may influence life expectancy across the world
