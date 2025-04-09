@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![life exp](https://github.com/user-attachments/assets/9b869c52-331d-4ee5-aa68-1b8fb072c008)
-" alt="Map with Pins" width="500">
+  <img src=""C:\Users\kobit\Downloads\life exp.jpg"alt="Map with Pins" width="500">
 </p>
 # World Life Expectancy Data Cleaning & Exploratory Data Analysis Project
 
