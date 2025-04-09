@@ -1,5 +1,6 @@
 # World Life Expectancy Data Cleaning & Exploratory Data Analysis Project
 
+## Project Overview
 This project focuses on cleaning and analyzing a dataset related to global life expectancy using SQL. The goal was to gain insights into health indicators, socioeconomic factors, and country-level differences that may influence life expectancy across the world
 
 ---
