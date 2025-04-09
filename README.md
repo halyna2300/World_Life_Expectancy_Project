@@ -1,6 +1,6 @@
-# SQL Data Cleaning & Exploratory Data Analysis (EDA) Project
+# World Life Expectancy Data Cleaning & Exploratory Data Analysis Project
 
-This project showcases my skills in cleaning and analyzing real-world data using SQL. The dataset includes information on life expectancy by country and year, along with socioeconomic indicators such as GDP, BMI, and adult mortality. The workflow is divided into two main parts:
+This project focuses on cleaning and analyzing a dataset related to global life expectancy using SQL. The goal was to gain insights into health indicators, socioeconomic factors, and country-level differences that may influence life expectancy across the world
 
 ---
 
