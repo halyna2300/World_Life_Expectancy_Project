@@ -3,6 +3,16 @@
 ## Project Overview
 This project focuses on cleaning and analyzing a dataset related to global life expectancy using SQL. The goal was to gain insights into health indicators, socioeconomic factors, and country-level differences that may influence life expectancy across the world
 
+##  Objectives
+- Clean and standardize raw life expectancy data for better usability.
+- Identify trends in life expectancy over time and across countries.
+- Explore the impact of factors like GDP, BMI, and development status on life expectancy.
+- Develop SQL queries to extract meaningful insights from the dataset.
+
+## Dataset
+The data for this project is sourced from the Kaggle dataset:
+- **Dataset Name:** Life Expectancy (WHO)
+- **Dataset Link:** [Kaggle - Life Expectancy Dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 ---
 
 ## 1 Data Cleaning Process
