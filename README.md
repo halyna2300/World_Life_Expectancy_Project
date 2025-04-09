@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/map.jpg" alt="Map with Pins" width="500">
+  <img src="https://github.com/halyna2300/World_Life_Expectancy_Project/blob/main/life%20exp.jpg" width="500">
 </p>
 # World Life Expectancy Data Cleaning & Exploratory Data Analysis Project
 
