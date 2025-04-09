@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\kobit\Downloads\life exp.jpg"alt="Map with Pins" width="500">
+  <img src="images/map.jpg" alt="Map with Pins" width="500">
 </p>
 # World Life Expectancy Data Cleaning & Exploratory Data Analysis Project
 
